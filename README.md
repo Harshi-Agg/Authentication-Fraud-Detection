@@ -1,8 +1,6 @@
 # Authentication-Fraud-Detection
 ML system to detect fraudulent authentication attempts that process login data,  and generate fraud risk scores
 
-# Authentication Fraud Detection
-
 ## Overview
 This repository contains an implementation and experimental study of **Authentication Fraud Detection** techniques inspired by an existing research paper.  
 The objective of this project is to understand, reproduce, and practically evaluate the ideas proposed in the referenced work using real-world datasets and machine learning techniques.
